@@ -1,0 +1,18 @@
+{
+  "name": "website",
+  "version": "1.0.0",
+  "description": "this is my website for the Discord bot called Mealk",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "CringeKidy",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.2.0",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.4",
+    "to": "^0.2.9",
+    "update": "^0.7.4"
+  }
+}
