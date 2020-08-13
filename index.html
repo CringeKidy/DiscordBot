@@ -12,6 +12,22 @@
 
         <h2>Server Count</h2>
 
+        <div id="Server Counter">
+
+            <script>
+                fetch("https://discordapp.com/api/users/700150917181210745")
+                .then(res => res.json())
+                .then((res) => {
+                    console.log(res)
+                    const data = res.data;
+                    getElement('guilds').innerHTML =  'guilds: ' + data.name;
+                })
+                
+            </script>
+
+
+        </div>
+
 
     </body>
 
