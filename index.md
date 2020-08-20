@@ -6,7 +6,7 @@ i hope to add a lot more to this bot like Rhythm features EG: !play, !skip etc w
 ## What can i do now 
 Well not much really cause this is a learning project for me as well as trying to get something out of it but here are some things that you can do if you would like
 1. add the bot to your discord:
-  [Invite to Server](https://discord.com/oauth2/authorize?client_id=700150917181210745&permissions=8&scope=bot)
+  [Invite to Server](https://discord.com/oauth2/authorize?client_id=700150917181210745&permissions=271727670&scope=bot)
   
 2. follow my twitch cause i normally stream me making the bot on there:
   [Twitch](https://www.twitch.tv/cringekidy)
